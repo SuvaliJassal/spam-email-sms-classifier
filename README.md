@@ -3,7 +3,7 @@
 An end-to-end Machine Learning web application that classifies messages as **Spam** or **Not Spam/Ham** (Legitimate) with high precision. This project covers the entire pipeline from raw data exploration to cloud deployment.
 
 ## 🚀 Live Demo
-[http://192.168.1.3:8501/]
+[https://suvali-spam-detector.streamlit.app/]
 
 ![App Screenshot](spam.png)
 ![App Screenshot](not_spam.png)
